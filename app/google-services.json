@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602981794504",
+    "firebase_url": "https://projeto-teste-49bab.firebaseio.com",
+    "project_id": "projeto-teste-49bab",
+    "storage_bucket": "projeto-teste-49bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602981794504:android:0c0703d7e80bfcccc01bfd",
+        "android_client_info": {
+          "package_name": "com.bosscode.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602981794504-8adstbnt43917u64av29sjqeo74nhurf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bosscode.firebaseapp",
+            "certificate_hash": "1724c2f247d645860de21a23fd0757cc2cd72719"
+          }
+        },
+        {
+          "client_id": "602981794504-6il81bid40u7ihe6lsm3j6gtp087f4bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiXv0N8Fn3lBLtmqnnisn89itDuKswsno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602981794504-6il81bid40u7ihe6lsm3j6gtp087f4bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
