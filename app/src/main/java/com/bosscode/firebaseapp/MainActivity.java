@@ -209,7 +209,7 @@ public class MainActivity extends AppCompatActivity {
                 StorageReference imagemRef = imagens.child("xurupita.jpeg");
 
                 Glide.with(MainActivity.this)
-//                        .using(new FirebaseImageLoader())
+                        .using(new FirebaseImageLoader())
                         .load( imagemRef )
                         .into( imageFoto );
 
